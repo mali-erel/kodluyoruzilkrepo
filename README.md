@@ -2,6 +2,8 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+<img width="776" alt="Ekran Resmi 2022-09-12 15 58 38" src="https://user-images.githubusercontent.com/65141544/189660129-eec5eecd-791e-4067-b5ee-ff9a1f275f48.png">
+
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
