@@ -8,7 +8,7 @@ kodluyoruz
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-git clone https://github.com/NURMA-DEL-WEB/kodluyoruzilkrepo.git
+git clone https://github.com/mali-erel/kodluyoruzilkrepo/
 
 # Usage
 
